@@ -19,7 +19,7 @@ Before you can run the project, make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/course-management-api.git
+   git clone https://github.com/ss31354/DistributedSystem.git
    ```
 
 2. **Navigate to the project directory:**
